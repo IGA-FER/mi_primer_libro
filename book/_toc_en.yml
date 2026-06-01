@@ -4,6 +4,9 @@ parts:
   - caption: Presentation
     chapters:
     - file: en/01_presentation/author_presentation
+  - caption: Introduction
+    chapters:
+    - file: en/02_introduction/importance_of_dams
 #   - caption: Tutorial
 #     chapters:
 #     - file: en/01_tutorial/01_what_is_a_teachbook
